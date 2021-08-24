@@ -16,7 +16,8 @@ Tooling: Webpack, Babel, NPM, Yarn, Jest, Testing Library, Cypress, Git, Jira, C
 
 ### Adobe, Seattle, WA
 
-#### Senior Front-End Engineer  October 2019 - Present
+#### Senior Front-End Engineer
+##### October 2019 - Present
 
 Leading front-end efforts towards Adobe's goal to bring its newly-acquired Bizible product onto the Adobe platform.
 
@@ -28,7 +29,8 @@ Leading front-end efforts towards Adobe's goal to bring its newly-acquired Bizib
 
 ### Net-Inspect LLC, Kirkland, WA
 
-#### Lead Front-End Engineer  August 2018 - August 2019
+#### Lead Front-End Engineer
+##### August 2018 - August 2019
 
 Led a team of developers building the leading SaaS application for manufacturing quality management. Accomplishments include:
 
@@ -40,7 +42,8 @@ Led a team of developers building the leading SaaS application for manufacturing
 
 -   Migration to Microsoft Azure to reduce costs and provide scalability
 
-#### Software Engineer  March 2013 - July 2018
+#### Software Engineer
+##### March 2013 - July 2018
 
 Built and maintained the Net-Inspect application. Accomplishments include:
 
